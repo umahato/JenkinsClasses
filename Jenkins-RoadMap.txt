@@ -1,0 +1,14 @@
+Planning and Design:
+1. project manager > Clinet counterpart
+2. Architects
+3. Development
+4. testing
+5. Operations:
+  5.1. Deployment
+  5.2. provioning
+  
+Build:
+
+1. Compilation : Conversion on code from RAW to m/c understanable format.
+.java --> .class
+2. 
